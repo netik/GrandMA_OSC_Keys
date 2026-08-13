@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="2.3.2.0">
+    <UserPlugin Name="RBOSCKeys" Guid="18 B0 3F 3B DE 5C 0C 04 5E 21 34 0A 72 DB C8 0E" Author="Rik Berkelder" Version="0.1.0.0" UserRights="View">
+        <ComponentLua Name="[RB_OSC_Keys_v0_1_lua]" Guid="18 B0 3F 3B 0F 54 0C 04 28 2C E5 00 64 9F E0 0E" FileName="RB_OSC_Keys_v0.1.lua" UserRights="View"/>
+    </UserPlugin>
+</GMA3>
